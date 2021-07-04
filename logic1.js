@@ -1,3 +1,4 @@
+prompt("Enter Your Name to start the game:-","Guest");
 
 function symbol1(){
     change=document.getElementById('firstblockinput').innerHTML='x';
@@ -31,6 +32,10 @@ var ninth=document.getElementById('ninthblockinput').innerHTML;
         alert("User win the match");
         else
         alert("Computer win the match")
+    }
+    else if((first=='x'||first=='o')&&(second=='x'||second=='o')&&(third=='x'||third=='o')&&(fourth=='x'||fourth=='0')&&(fifth=='x'||fifth=='o')&&(sixth=='x'||sixth=='o')&&(seventh='x'||seventh=='o')&&(eighth=='x'||eighth=='o')&&(ninth=='x'||ninth=='o'))
+    {
+        alert("Game over!! Draw match!");
     }
     else
     {
@@ -96,6 +101,10 @@ var ninth=document.getElementById('ninthblockinput').innerHTML;
         alert("User win the match");
         else
         alert("Computer win the match")
+    }
+    else if((first=='x'||first=='o')&&(second=='x'||second=='o')&&(third=='x'||third=='o')&&(fourth=='x'||fourth=='0')&&(fifth=='x'||fifth=='o')&&(sixth=='x'||sixth=='o')&&(seventh='x'||seventh=='o')&&(eighth=='x'||eighth=='o')&&(ninth=='x'||ninth=='o'))
+    {
+        alert("Game over!! Draw match!");
     }
     else
     {
@@ -169,6 +178,10 @@ var ninth=document.getElementById('ninthblockinput').innerHTML;
         else
         alert("Computer win the match")
     }
+    else if((first=='x'||first=='o')&&(second=='x'||second=='o')&&(third=='x'||third=='o')&&(fourth=='x'||fourth=='0')&&(fifth=='x'||fifth=='o')&&(sixth=='x'||sixth=='o')&&(seventh='x'||seventh=='o')&&(eighth=='x'||eighth=='o')&&(ninth=='x'||ninth=='o'))
+    {
+        alert("Game over!! Draw match!");
+    }
     else
     {
     setTimeout(() => {
@@ -233,6 +246,10 @@ var ninth=document.getElementById('ninthblockinput').innerHTML;
         alert("User win the match")
         else
         alert("Computer win the match")
+    }
+    else if((first=='x'||first=='o')&&(second=='x'||second=='o')&&(third=='x'||third=='o')&&(fourth=='x'||fourth=='0')&&(fifth=='x'||fifth=='o')&&(sixth=='x'||sixth=='o')&&(seventh='x'||seventh=='o')&&(eighth=='x'||eighth=='o')&&(ninth=='x'||ninth=='o'))
+    {
+        alert("Game over!! Draw match!");
     }
     else
     {
@@ -315,6 +332,10 @@ var ninth=document.getElementById('ninthblockinput').innerHTML;
         else
         alert("Computer win the match")
     }
+    else if((first=='x'||first=='o')&&(second=='x'||second=='o')&&(third=='x'||third=='o')&&(fourth=='x'||fourth=='0')&&(fifth=='x'||fifth=='o')&&(sixth=='x'||sixth=='o')&&(seventh='x'||seventh=='o')&&(eighth=='x'||eighth=='o')&&(ninth=='x'||ninth=='o'))
+    {
+        alert("Game over!! Draw match!");
+    }
     else
     {
     setTimeout(() => {
@@ -380,6 +401,10 @@ var ninth=document.getElementById('ninthblockinput').innerHTML;
         alert("User win the match")
         else
         alert('Computer win the match')
+    }
+    else if((first=='x'||first=='o')&&(second=='x'||second=='o')&&(third=='x'||third=='o')&&(fourth=='x'||fourth=='0')&&(fifth=='x'||fifth=='o')&&(sixth=='x'||sixth=='o')&&(seventh='x'||seventh=='o')&&(eighth=='x'||eighth=='o')&&(ninth=='x'||ninth=='o'))
+    {
+        alert("Game over!! Draw match!");
     }
     else{
     setTimeout(() => {
@@ -452,6 +477,10 @@ var ninth=document.getElementById('ninthblockinput').innerHTML;
         else
         alert("Computer win the match")
     }
+    else if((first=='x'||first=='o')&&(second=='x'||second=='o')&&(third=='x'||third=='o')&&(fourth=='x'||fourth=='0')&&(fifth=='x'||fifth=='o')&&(sixth=='x'||sixth=='o')&&(seventh='x'||seventh=='o')&&(eighth=='x'||eighth=='o')&&(ninth=='x'||ninth=='o'))
+    {
+        alert("Game over!! Draw match!");
+    }
     else{
     setTimeout(() => {
          if(document.getElementById('fourthblockinput').innerHTML=='4')
@@ -516,6 +545,10 @@ var ninth=document.getElementById('ninthblockinput').innerHTML;
         alert("User win the match")
         else
         alert("Computer win the match")
+    }
+    else if((first=='x'||first=='o')&&(second=='x'||second=='o')&&(third=='x'||third=='o')&&(fourth=='x'||fourth=='0')&&(fifth=='x'||fifth=='o')&&(sixth=='x'||sixth=='o')&&(seventh='x'||seventh=='o')&&(eighth=='x'||eighth=='o')&&(ninth=='x'||ninth=='o'))
+    {
+        alert("Game over!! Draw match!");
     }
     else{
     setTimeout(() => {
@@ -588,6 +621,10 @@ var ninth=document.getElementById('ninthblockinput').innerHTML;
         alert("User win the match");
         else
         alert("Computer win the match")
+    }
+    else if((first=='x'||first=='o')&&(second=='x'||second=='o')&&(third=='x'||third=='o')&&(fourth=='x'||fourth=='0')&&(fifth=='x'||fifth=='o')&&(sixth=='x'||sixth=='o')&&(seventh='x'||seventh=='o')&&(eighth=='x'||eighth=='o')&&(ninth=='x'||ninth=='o'))
+    {
+        alert("Game over!! Draw match!");
     }
     else{
     setTimeout(() => {
